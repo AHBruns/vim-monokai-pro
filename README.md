@@ -21,6 +21,12 @@ Monokai Pro color scheme for Vim / Neovim. Inspired by https://www.monokai.pro/.
 	cd phanviet/colors
 	mv monokai_pro.vim ~/.vim/colors
 	```
+  And if you'd also like to use the included lightline theme. You'll need to move that theme file as well. E.g.
+  ``` bash
+  cd ../autoload/lightline/colorscheme
+  mv monokai_pro.vim ~/.vim/pack/dist/start/lightline/autoload/lightline/colorscheme
+  ```
+	
 
 ## Usage
 
